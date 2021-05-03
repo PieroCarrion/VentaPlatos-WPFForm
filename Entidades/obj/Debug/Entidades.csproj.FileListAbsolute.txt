@@ -1,0 +1,17 @@
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb

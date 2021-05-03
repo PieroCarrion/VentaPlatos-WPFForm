@@ -1,0 +1,17 @@
+﻿<Window x:Class="Presentacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="176.733" Width="260.886">
+    <Grid Margin="0,0,14,9">
+        <Button x:Name="btnClientes" Content="Clientes" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="105" Click="btnClientes_Click" Height="33"/>
+        <Button x:Name="btnPlatos" Content="Platos" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Width="105" Click="btnPlatos_Click" Height="39"/>
+        <Button x:Name="btnTrabajadores" Content="Trabajadores" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Width="105" Click="btnTrabajadores_Click" Height="42"/>
+        <Button Content="Realizar Venta" HorizontalAlignment="Left" Margin="120,10,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click" Height="33"/>
+        <Button Content="Consultar Ventas" HorizontalAlignment="Left" Margin="120,48,0,0" VerticalAlignment="Top" Width="114" Height="39" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

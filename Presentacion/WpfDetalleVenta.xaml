@@ -1,0 +1,17 @@
+﻿<Window x:Class="Presentacion.WpfDetalleVenta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="Ventas" Height="400.82" Width="518.033" >
+    <Grid >
+        <DataGrid x:Name="dgVentas" HorizontalAlignment="Left" Margin="25,26,0,0" VerticalAlignment="Top" Height="269" Width="176" SelectionChanged="dgVentas_SelectionChanged" IsReadOnly="True"/>
+        <Label Content="Ventas" HorizontalAlignment="Left" Margin="25,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.055,0.286"/>
+        <Label Content="Detalles Ventas" HorizontalAlignment="Left" Margin="315,0,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="dgDetalles" HorizontalAlignment="Left" Height="269" Margin="302,26,0,0" VerticalAlignment="Top" Width="184" IsReadOnly="True"/>
+        <Label Content="->" HorizontalAlignment="Left" Margin="236,152,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.055,0.286"/>
+
+    </Grid>
+</Window>

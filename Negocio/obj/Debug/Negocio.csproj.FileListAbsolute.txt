@@ -1,0 +1,51 @@
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\JESUS\Desktop\PRUEBAS FUNDA DE ASISTENCIA\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\renzo\Desktop\Actualizadp\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\SS\Downloads\TrabajoFinal_Funfa2.0\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\SS\Desktop\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\VentaPlato\TrabajoFinal\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
